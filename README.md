@@ -12,6 +12,7 @@ with one or more simulations inside, and each simulation has its own plots.
 | ID | Family |
 |---|---|
 | AE03001 | [Matrix](https://github.com/astroelectronica/mathematics/tree/main/matrix) |
+| AE03002 | [Equations](https://github.com/astroelectronica/mathematics/tree/main/equations)
 
 ## Tools
 
